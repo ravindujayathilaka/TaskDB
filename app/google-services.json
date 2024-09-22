@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "631850537458",
+    "firebase_url": "https://taskdb-3f024-default-rtdb.firebaseio.com",
+    "project_id": "taskdb-3f024",
+    "storage_bucket": "taskdb-3f024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631850537458:android:26305d96bb3b2414701b6b",
+        "android_client_info": {
+          "package_name": "com.sliit.taskdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4PAfShsmx7rz_rO7oCae5yZzzkEh4sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

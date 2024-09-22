@@ -1,0 +1,15 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="CustomTimePicker" parent="Widget.MaterialComponents.TimePicker">
+        <item name="android:background">@color/your_custom_background_color</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:timePickerMode">spinner</item>
+        <!-- Add more customizations as needed -->
+    </style>
+</resources>
